@@ -116,8 +116,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "React Native Developer",
+    company_name: "CTime",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
@@ -129,14 +129,14 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Content Creator & Fullstack Developer",
+    company_name: "Frontend Scratch",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jun 2024 - now",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing a personal blog for sharing knowledge about Frontend Development",
+      "Publishing tutorials on Youtube about how to build components from scratch",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
@@ -198,20 +198,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "BK Artisan",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based application that allows users to exchange craft items. It also supports multi-channel payments",
     tags: [
       {
-        name: "react",
+        name: "React.js",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Node.js",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "MySQL",
         color: "pink-text-gradient",
       },
     ],
