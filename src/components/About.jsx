@@ -1,4 +1,3 @@
-
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 import { styles } from "../styles";
@@ -42,11 +41,12 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         variants={fadeIn("", "", 0.1, 1)}
       >
-        I'm a software developer with experience in TypeScript, JavaScript,
-        React.js and Node.js. I'm a quick learner and collaborate closely with
-        clients to create efficient, scalable, and user-friendly solutions that
-        solve real-world problems. Let's work together to bring your ideas to
-        life!
+        I'm a Frontend Engineer with experience in TypeScript, JavaScript,
+        React.js and Node.js. I'm a quick learner and result-oriented person.
+        <br />
+        My motivation is to create efficient, scalable, and user-friendly
+        solutions that solve real-world problems. Let's work together to bring
+        your ideas to life!
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (

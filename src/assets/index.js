@@ -29,7 +29,8 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import bk_artisan from "./bk_artisan.png";
+import smart_farm from "./smart_farm.png"
 export {
   logo,
   backend,
@@ -59,4 +60,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  bk_artisan,
+  smart_farm,
 };
