@@ -30,7 +30,11 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import bk_artisan from "./bk_artisan.png";
-import smart_farm from "./smart_farm.png"
+import smart_farm from "./smart_farm.png";
+import funny from "./funny.png";
+import mugi_recipe from "./mugi_recipe.png";
+import bk_hostel from "./bk_hostel.png";
+import jobs_api from "./jobs_api.png";
 export {
   logo,
   backend,
@@ -62,4 +66,8 @@ export {
   tripguide,
   bk_artisan,
   smart_farm,
+  funny,
+  mugi_recipe,
+  bk_hostel,
+  jobs_api,
 };

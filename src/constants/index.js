@@ -22,9 +22,13 @@ import {
   // carrent,
   bk_artisan,
   smart_farm,
-  jobit,
-  tripguide,
+  // jobit,
+  // tripguide,
   threejs,
+  funny,
+  mugi_recipe,
+  bk_hostel,
+  jobs_api,
 } from "../assets";
 
 export const navLinks = [
@@ -239,8 +243,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: mugi_recipe,
+    source_code_link: "https://github.com/alothanhh/mugirecipe-frontend",
   },
   {
     name: "BK Hostel",
@@ -259,8 +263,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: bk_hostel,
+    source_code_link: "https://github.com/hinn1411/fe-bkhostel",
   },
   {
     name: "Jobs API",
@@ -279,8 +283,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: jobs_api,
+    source_code_link: "https://github.com/hinn1411/temp-jobs-api",
   },
   {
     name: "Smart Farm",
@@ -301,7 +305,7 @@ const projects = [
       },
     ],
     image: smart_farm,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/hinn1411/CO3109-Smart-Garden",
   },
   {
     name: "Funny",
@@ -320,8 +324,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: funny,
+    source_code_link: "https://github.com/hinn1411/SE-CO3103",
   },
 ];
 
