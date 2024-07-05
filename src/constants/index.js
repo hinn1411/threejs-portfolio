@@ -29,6 +29,8 @@ import {
   mugi_recipe,
   bk_hostel,
   jobs_api,
+  green_summer,
+  bk_social_media,
 } from "../assets";
 
 export const navLinks = [
@@ -205,6 +207,27 @@ const testimonials = [
 
 const projects = [
   {
+    name: "BK Social Media",
+    description:
+      "Web-based application that helps individuals share private moments",
+    tags: [
+      {
+        name: "Next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Clerk.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Prisma",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: bk_social_media,
+    source_code_link: "https://github.com/hinn1411/thesis-bkartisan",
+  },
+  {
     name: "BK Artisan",
     description:
       "Web-based application that allows users to exchange craft items. It also supports multi-channel payments",
@@ -245,6 +268,27 @@ const projects = [
     ],
     image: mugi_recipe,
     source_code_link: "https://github.com/alothanhh/mugirecipe-frontend",
+  },
+  {
+    name: "Green Summer",
+    description:
+      "A Web-based application that connects students and local authorities",
+    tags: [
+      {
+        name: "React.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Github Actions",
+        color: "green-text-gradient",
+      },
+      {
+        name: "AWS S3",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: green_summer,
+    source_code_link: "https://github.com/hinn1411/fe-bkhostel",
   },
   {
     name: "BK Hostel",

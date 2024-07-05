@@ -35,6 +35,8 @@ import funny from "./funny.png";
 import mugi_recipe from "./mugi_recipe.png";
 import bk_hostel from "./bk_hostel.png";
 import jobs_api from "./jobs_api.png";
+import green_summer from "./green_summer.png";
+import bk_social_media from "./bk_social_media.png";
 export {
   logo,
   backend,
@@ -70,4 +72,6 @@ export {
   mugi_recipe,
   bk_hostel,
   jobs_api,
+  green_summer,
+  bk_social_media,
 };
